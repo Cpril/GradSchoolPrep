@@ -1,0 +1,173 @@
+---
+title: "NUS 新加坡国立大学 (3个项目)"
+format: html
+toc: true
+editor: visual
+date: 2025-6-19
+---
+
+## School Info 学校介绍
+
+**QS综合排名:** 8
+
+**QS学科排名：** Data Science 数据科学：7 ; Statistics 统计：10
+
+## Master of Science in Data Science and Machine Learning 理学硕士：数据科学和机器学习
+
+### Program Website [项目官网](https://www.math.nus.edu.sg/cdsml/ms-dsml/dsml-prospective-students/)
+
+> The Master of Science in Data Science and Machine Learning (DSML) is an interdisciplinary graduate degree programme aimed at developing future leaders in data science and artificial intelligence. This programme is offered by the Faculty of Science’s Department of Mathematics, in collaboration with the Department of Statistics and Data Science and the School of Computing’s Department of Computer Science. 数据科学与机器学习理学硕士（DSML）是一门跨学科研究生学位课程，旨在培养数据科学和人工智能领域的未来领导者。该课程由理学院数学系与统计与数据科学系和计算机学院计算机科学系合作开设。
+
+> Supported by leading researchers from NUS in the fields of data science and artificial intelligence, along with industry data scientists, the curriculum of this programme offers a comprehensive interdisciplinary education. The curriculum encompasses fundamental disciplines such as computer science, mathematics and statistics, along with specialised areas like machine learning and artificial intelligence. 在新加坡国立大学数据科学和人工智能领域顶尖研究人员以及行业数据科学家的支持下，本课程提供全面的跨学科教育。课程涵盖计算机科学、数学和统计学等基础学科，以及机器学习和人工智能等专业领域。
+
+### Costs 费用
+
+1.  Application Fee 申请费：100 Singapore dollars（100新加坡元）
+
+2.  Tuition for international students 国际生学费(2026)：
+
+-   共58,860 新元（含 9% 消费税）
+
+-   早申请分四次付款： -\> 留位费：5450, -\> 2026一月： 5450， -\> 第一学期剩余学费：18530 -\> 第二学期学费：29430
+
+-   常规申请分两次付款： -\> 留位费：10900, -\> 第一学期剩余学费：18530 -\> 第二学期学费：29430
+
+-   [See More at 详情见链接](https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2025/04/MDSML-AY2026-International-Students.pdf)
+
+### Application time and outcome 申请时间和结果（以2026年为例）
+
+**早申请**：
+
+-   申请投递时间：5/16/2025 - 7/16/2025
+
+-   最晚知道结果时间：9/30/2025
+
+**常规申请**
+
+-   申请投递时间：10/1/2025 - 1/31/2026
+
+-   最晚知道结果时间：6/30/2026
+
+## MSc in Statistics Professional Training in Statistics and Data Science 统计学硕士:统计学和数据科学专业培训
+
+Program Website [官网](https://www.stat.nus.edu.sg/prospective-students/graduate-programme/msc_in_statistics/)
+
+> The Department of Statistics and Data Science at NUS is consistently ranked among the top Statistics departments in the world according to the QS World University Rankings. Part of our mission is to be a leader in education, and to train statisticians and data science professionals who can bring an understanding of data and evidence-based decision-making to the roles they will fill. Our MSc graduates find jobs in banking and finance, business and marketing, medical and health sciences, manufacturing and engineering, research and academic institutions, and in many other fields. Our exciting curriculum equips you both with fundamental knowledge in statistical theory and data science principles, as well as practical knowledge of specialized techniques in a wide range of areas in our elective courses. The MSc in Statistics is ideal for those looking to further their careers as industry statisticians or data scientists, or wanting a solid foundation for an entry into research. 根据QS世界大学排名，新加坡国立大学统计与数据科学系一直名列世界顶尖统计系之列。 我们的使命之一是成为教育领域的佼佼者，培养统计人员和数据科学专业人士，使他们能够在即将从事的工作中了解数据和基于证据的决策。 我们的理学硕士毕业生可在银行和金融、商业和营销、医疗和健康科学、制造和工程、研究和学术机构以及许多其他领域找到工作。 我们令人兴奋的课程既能让您掌握统计理论和数据科学原理的基础知识，又能让您在选修课程中掌握广泛领域的专业技术实践知识。 统计理学硕士课程非常适合那些希望进一步发展成为行业统计师或数据科学家的人，或者希望为进入研究领域打下坚实基础的人。
+
+### Costs 费用
+
+1.  Application Fee 申请费：100 Singapore dollars（100新加坡元）
+
+2.  Tuition for international students 国际生学费(2026)：
+
+-   共52,320 新元
+
+-   早申请分四次付款： -\> 留位费：5450, -\> 2026一月： 5450， -\> 第一学期剩余学费：15260 -\> 第二学期学费：26160
+
+-   常规申请分两次付款： -\> 留位费：10900, -\> 第一学期剩余学费：15260 -\> 第二学期学费：26160
+
+-   [See More at 详情见链接](https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2025/05/Tuition-Fees-Structure-for-International-Students_-AY2026-Intake-07052025.pdf)
+
+### Application time and outcome 申请时间和结果（以2026年为例）
+
+**早申请**：
+
+-   申请投递时间：5/16/2025 - 7/16/2025
+
+**常规申请**
+
+-   申请投递时间：10/1/2025 - 1/31/2026
+
+**无论早申请还是常规申请**最晚知道结果时间：6/30/2026
+
+## MSc in Data Science for Sustainability 可持续发展数据科学理学硕士
+
+Program Website [项目链接](https://www.stat.nus.edu.sg/prospective-students/graduate-programme/msc-in-data-science-for-sustainability/)
+
+> The world is currently facing significant sustainability challenges, including climate change, biodiversity loss, water scarcity, pollution. Data science, by uncovering valuable insights from complex economic, environment and social systems, has become a crucial player in supporting the efforts to address the issues. The MSc programme in Data Science for Sustainability is a collaboration between the Department of Statistics and Data Science and the Centre for Nature-based Climate Solutions, in partnership with Department of Biological Science. The programme is to train data scientists who can integrate their knowledge and skills with an understanding of sustainability issues. 当前，世界正面临着重大的可持续发展挑战，包括气候变化、生物多样性丧失、水资源短缺和污染。 数据科学通过从复杂的经济、环境和社会系统中发掘有价值的见解，已成为支持解决这些问题的重要力量。 可持续发展数据科学理学硕士课程是统计与数据科学系和基于自然的气候解决方案中心与生物科学系的合作项目。该课程旨在培养数据科学家，使他们能够将自己的知识和技能与对可持续发展问题的理解结合起来。
+
+> The demand for professionals with skills in the field of both robust data science and sustainability is increasing rapidly. The growing demand opens exciting and diverse career opportunities. Our programme is designed to equip graduates with the necessary technical and analytical abilities to effectively meet the demand. 对具备强大数据科学和可持续发展领域技能的专业人员的需求正在迅速增长。 不断增长的需求带来了令人兴奋的多样化职业机会。 我们的课程旨在让毕业生具备必要的技术和分析能力，以有效满足需求。
+
+### Costs 费用
+
+1.  Application Fee 申请费：100 Singapore dollars（100新加坡元）
+
+2.  Tuition for international students 国际生学费(2026)：
+
+-   共52,320 新元
+
+    -\> 留位费：10900, -\> 第一学期剩余学费：15260 -\> 第二学期学费：26160
+
+-   [See More at 详情见链接](https://www.stat.nus.edu.sg/prospective-students/graduate-programme/msc-in-data-science-for-sustainability/)
+
+### Application time and outcome 申请时间和结果（以2026年为例）
+
+**早申请**：
+
+-   申请投递时间：5/16/2025 - 7/16/2025
+
+**常规申请**
+
+-   申请投递时间：10/1/2025 - 1/31/2026
+
+**无论早申请还是常规申请**最晚知道结果时间：6/30/2026
+
+------------------------------------------------------------------------
+
+## Programme Structure课程设置
+
+> Students admitted to the Master of Science in Data Science and Machine Learning programme are required to read and pass five core courses and five elective courses (total: 40 units)通过五门核心课程和五门选修课程（共 40 个单元）。 Full-time: 1 to 2 years OR Part-time: 2 to 4 years. 全日制课程： 1 至 2 年,非全日制：2 至 4 年
+
+**2025届学生课程清单course requirement for 2025 intake**
+
+[数据科学和机器学习](https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2024/10/MDSML-Course-List-incoming-students.pdf) [统计和数据科学](https://www.stat.nus.edu.sg/prospective-students/graduate-programme/msc_in_statistics/)
+
+[可持续发展统计](https://www.stat.nus.edu.sg/prospective-students/graduate-programme/msc-in-data-science-for-sustainability/)
+
+## 入学要求
+
+> A Bachelor’s (Honours) degree or a 4-year Bachelor’s degree or its equivalent in a quantitative science (e.g. Mathematics, Statistics and Physics), Engineering or Computing Science.定量科学（如数学、统计学和物理学）、工程学或计算机科学学士（荣誉）学位或四年制学士学位或同等学历。
+
+## 申请提交资料
+
+> #### Proof of Residence 居住证明
+
+> Passport and Work Pass (Employment Pass/S Pass), Long-Term Visit Pass, Dependent’s Pass and other Passes (if applicable)护照和工作准证（就业准证/准证）、长期访问准证、家属准证及其他准证（如适用）。
+
+> #### Transcript(s) 成绩单
+
+> Official transcript from each university or college attended. (From Bachelor’s degree onwards)每所大学或学院的正式成绩单。(从学士学位开始)
+
+> The university’s grading system (usually indicated at the back of the transcript)大学的评分系统（通常标注在成绩单背面）
+
+> Grade Point Average (GPA) document, if your transcript does not reflect the cumulative Grade Point Average (GPA) or weighted average score.平均学分绩点（GPA）文件，如果您的成绩单没有反映累计平均学分绩点（GPA）或加权平均分。
+
+> #### Degree Scroll(s) 学位证书
+
+> A degree scroll is a document conferred upon a student after he/she has completed the required courses in the programme and met the graduation requirements for his/her undergraduate/postgraduate education. 学位证书是在学生完成课程必修课程并达到本科/研究生教育毕业要求后授予学生的文件。
+
+> Students who have not yet graduated from their undergraduate studies at the point of application are to provide a Student Status Letter from their university. The letter should contain their enrolment status and candidature period.申请时尚未本科毕业的学生应提供由其所在大学出具的学籍证明。信中应包含其注册状态和候选期限。
+
+> #### Financial Statement 财务报告
+
+> Under “Source of Finance”, select Self Finance and upload a financial statement in the “Supporting Documents” section. The financial statement may be in the form of a bank statement or recent payslip. The amount in the bank statement should be sufficient to cover the tuition fees, miscellaneous fees and living expenses for your entire candidature in Singapore. 在 “资金来源 ”下，选择自筹资金，并在 “证明文件 ”部分上传财务报表。 财务报表可以是银行对账单或近期工资单。 银行对账单中的金额应足以支付您在新加坡整个申请期间的学费、杂费和生活费。
+
+> Applicants who are sponsored by a parent/relative will have to provide a sponsorship letter and a copy of the sponsor’s bank statement. The sponsorship letter should state the relationship between the sponsor (parent or relative) and the applicant, along with the sponsor’s consent to fund the applicant’s education. Additionally, it must include the sponsor’s signature.Applicants who are sponsored by an organisation will need to provide a letter from their sponsor with details of the sponsorship.由父母/亲属担保的申请人必须提供担保信和担保人的银行对账单副本。担保函应说明担保人（父母或亲属）与申请人之间的关系，以及担保人同意资助申请人的教育费用。此外，还必须包括担保人的签名。由组织赞助的申请人需要提供赞助人的信函，说明赞助详情。
+
+> #### Other Supporting Documents 其他文件
+
+> Resume/CV summarising your education qualifications, work experience and achievements.简历/简历，概述您的学历、工作经验和成就。
+
+> Scholarships, awards and prizes received, etc., if applicable.获得的奖学金、奖项等（如适用）。
+
+> Professional certificates, etc., if applicable.专业证书等（如适用）。
+
+NOTE：Referee Reports and GRE Reports are not required for application to the programme. Personal Statement and Internship certificates are optional.注释：申请该课程不需要推荐信和 GRE 报告。个人陈述和实习证明为可选项。
+
+## Scholarships 奖学金
+
+> **NUS GRTII Master’s Scholarship (NUS Guangzhou Research Translation and Innovation Institute)新加坡国立大学广州研究转化与创新学院硕士奖学金**
+
+> This merit scholarship, sponsored by the Huangpu District Government of Guangzhou, China, aims to develop talent for the Greater Bay Area of China. Scholarship recipients are required to sign a Service Bond Agreement, with an obligation to work for at least two years in the Huangpu District of Guangzhou after graduation. One award of S\$45,000 toward tuition will be granted to each scholarship recipient.该奖学金由中国广州市黄埔区政府赞助，旨在为中国粤港澳大湾区培养人才。奖学金获得者需签署服务保证协议，毕业后有义务在广州市黄埔区工作至少两年。每位奖学金获得者可获得 45,000 新元的学费奖励。
+
+> Students interested in being considered for this scholarship should write to uprbox34\@nus.edu.sg.有意申请该奖学金的学生请致信 uprbox34\@nus.edu.sg。
