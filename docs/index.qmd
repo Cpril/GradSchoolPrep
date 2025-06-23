@@ -11,3 +11,5 @@ editor: visual
 ### [NUS新加坡国立](NUS.html)
 
 ### [NTU南阳理工大学](/NTU.html)
+
+### [HKU香港大学](/HKU.html)

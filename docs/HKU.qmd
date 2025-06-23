@@ -1,0 +1,115 @@
+---
+title: "HKU香港大学"
+format: html
+embed-resources: true
+toc: true
+editor: visual
+---
+
+## School Info 学校介绍
+
+**QS综合排名:** 17
+
+**QS学科排名：** Statistics 统计：24 ； Data Science 数据科学：18
+
+## Master of Statistics 统计硕士
+
+### Program Website [项目官网](https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-statistics-sci&mode=0)
+
+>the programme is designed to provide a rigorous training in the principles and the practice of statistics. It emphasizes in applications and aims to prepare candidates for further study, research, consulting work and administration in various fields through computer-aided and hands-on experience. Candidates should have knowledge of matrices and calculus, introductory statistics and linear modelling.该课程旨在提供统计学原理和实践方面的严格培训。该课程强调应用，旨在通过计算机辅助和实践经验，为学生在各领域的进一步学习、研究、咨询工作和行政管理做好准备。考生应具备矩阵和微积分、统计学入门和线性建模方面的知识。
+
+>The programme offers great flexibilities for students who wish to take a general approach, or a specialized theme in Risk Management, Data Analytics, or Financial Statistics. For a specialized theme, there are core courses and elective courses for students to choose from.该课程为希望学习一般方法或风险管理、数据分析或金融统计专业主题的学生提供了极大的灵活性。对于专业主题，有核心课程和选修课程供学生选择。
+
+>Students joining the programme are expected to come from a wide range of disciplines. The programme is recommended for those at work to be part-time students and will benefit from interaction with classmates of similar or different backgrounds as well as for fresh graduates to be full-time students to get a postgraduate degree before working.参加该课程的学生应来自各个学科。建议在职人士选择该课程作为非全日制学生，与背景相似或不同的同学交流，从中受益；也建议应届毕业生选择该课程作为全日制学生，在工作前获得研究生学位。
+
+### [Scholarship奖学金](https://sweb.hku.hk/tola/servlet/ApplicantDownloadForm/getForm?pREF_CODE=R20&pDOCUMENT_TYPE=PROGRAMINFORMATION&pVIEW=Y)
+>Entrance Scholarship for the Master of Statistics of HK$20,000, will be awarded annually to new 
+MStat students on the basis of academic merit and financial need upon admission. 统计学硕士新生入学奖学金，每年港币$20,000，颁发给
+统计学硕士新生，学生须在入学时根据学业成绩及经济需要申请。
+
+>Lifelong Learning Prize in Statistics, each from HK$5,000 to HK$10,000, will be awarded to MStat 
+students on the basis of academic achievement. 统计学终身学习奖，每名奖金由港币5,000元至10,000元不等，将颁发予统计学硕士，以表扬学生的学业成绩。
+
+>Master of Statistics Outstanding Performance Scholarship, one scholarship of HK$50,000, will be awarded annually for MStat student on the basis of academic merit and quality of coursework. 统计硕士杰出表现奖学金：每年颁发一次，金额为港币50000元，，颁发给成绩优秀、课业表现优异的统计硕士生。
+
+>Belt and Road Scholarship in Statistics and Data Science (Taught Postgraduate) is awarded annually 
+to outstanding new students from participating Belt and Road countries. Composition fees of MStat could be waived for awardees, and additional allowance of HK$10,000 will be provided to support their studies. 统计与数据科学（授课式研究生）“一带一路 ”奖学金每年颁发一次，奖励来自 “一带一路 ”参与国家的优秀新生。获奖者可豁免统计学硕士课程
+的学费，并可获得港币 10,000 元的额外津贴，以支持
+的学业。
+
+>The Master of Statistics programme is one of the eligible programmes under the University Grants 
+Committee for Targeted Taught Postgraduate Programmes Fellowships Scheme. Each local applicant who is selected for the fellowships scheme will be granted an award of HK$120,000.统计硕士课程是大学教育资助委员会
+目标明确的修课式研究生课程奖学金计划的合资格课程之一。每名入选奖学金计划的本地申请者可获12万港元的奖学金。
+
+### Cost费用
+Hong Kong Yuan香港元: 228,000
+
+### Application Deadline 申请时间
+
+- Round 1 (Main): November, 2024
+- 第一轮（正常申请）：2025 年 11 月
+
+- Round 2 (Clearing): January, 2025
+- 第二轮（清算）：2025 年 1 月
+
+### [Curriculum课程设置](https://sweb.hku.hk/tola/servlet/ApplicantDownloadForm/getForm?pREF_CODE=R20&pDOCUMENT_TYPE=REGULATIONSYLLABUS&pVIEW=Y)
+
+- Have 3 themes to choose from: Risk Management, Data Analytics, Financial Statistics. 有 3 个主题可供选择： 风险管理、数据分析、金融统计。
+
+- 1 year full-time, 2 year part-time. 1 年全日制，2 年非全日制
+
+### [Application Material申请材料](https://sweb.hku.hk/tola/servlet/ApplicantDownloadForm/getForm?pREF_CODE=R20&pDOCUMENT_TYPE=SUPPORTDOCUMENT&pVIEW=Y)
+
+-   Passport 护照
+
+-   Certification Letter for Medium of Instruction from Bachler Degree School 学位学校的教学语言证明信
+
+-   Official Transcript 官方成绩单(GPA 成绩)
+
+-   CV 简历
+
+-   Personal Statement 文书
+
+-   Optional: GRE and Referrence letter 非必须： GRE 和推荐信
+
+
+-------------------------------------------------
+
+## Master of Data Science 数据科学
+
+### Program Website [项目官网](https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-data-science-sci&mode=0)
+
+
+>The curriculum structure of the Master of Data Science programme is comprised of a wide range of statistics and computer science courses, with two study modes: full-time mode with one and a half academic years and part-time mode with two and a half academic years. The curriculum is designed to provide graduates with training in the principles and practice of data science.数据科学硕士课程的课程结构由一系列统计学和计算机科学课程组成，有两种学习模式：一学年半的全日制模式和两学年半的非全日制模式。课程旨在为毕业生提供有关数据科学原理和实践的培训。
+
+>Candidates should have knowledge of calculus and algebra, computer programming and introductory statistics and should have taken at least one university or post-secondary certificate course in each of these three subjects or related areas.考生应掌握微积分和代数、计算机编程和统计学入门知识，并在这三个科目或相关领域各至少修读过一门大学或大专证书课程。
+
+### Cost费用
+Hong Kong Yuan香港元: 324,000
+
+### Application Deadline 申请时间
+
+- Round 1 (Main): November, 2024
+- 第一轮（正常申请）：2025 年 11 月
+
+- Round 2 (Clearing): January, 2025
+- 第二轮（清算）：2025 年 1 月
+
+### [Curriculum课程设置](https://sweb.hku.hk/tola/servlet/ApplicantDownloadForm/getForm?pREF_CODE=R334&pDOCUMENT_TYPE=REGULATIONSYLLABUS&pVIEW=Y)
+
+- 1.5 year full-time, 2.5 year part-time. 1.5 年全日制，2.5 年非全日制
+
+### [Application Material申请材料](https://sweb.hku.hk/tola/servlet/ApplicantDownloadForm/getForm?pREF_CODE=R334&pDOCUMENT_TYPE=SUPPORTDOCUMENT&pVIEW=Y)
+
+-   Passport 护照
+
+-   Certification Letter for Medium of Instruction from Bachler Degree School 学位学校的教学语言证明信
+
+-   Official Transcript 官方成绩单(GPA 成绩)
+
+-   CV 简历
+
+-   Personal Statement 文书
+
+-   Optional: GRE and Reference letter 非必须： GRE 和推荐信
+
