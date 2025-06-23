@@ -1,0 +1,13 @@
+---
+title: "School Search 首页"
+format: html
+embed-resources: true
+toc: true
+editor: visual
+---
+
+## 新加坡
+
+### [NUS新加坡国立](NUS.html)
+
+### [NTU南阳理工大学](/NTU.html)

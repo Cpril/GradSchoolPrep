@@ -1,6 +1,7 @@
 ---
 title: "NUS 新加坡国立大学 (3个项目)"
 format: html
+embed-resources: true
 toc: true
 editor: visual
 date: 2025-6-19
