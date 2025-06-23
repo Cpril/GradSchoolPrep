@@ -13,3 +13,5 @@ editor: visual
 ### [NTU南阳理工大学](/NTU.html)
 
 ### [HKU香港大学](/HKU.html)
+
+### [CUHK香港中文大学](/CUHK.html)
