@@ -1,0 +1,108 @@
+---
+title: "HKUST 香港科技大学"
+format: html
+editor: visual
+---
+
+## School Info 学校介绍
+
+**QS综合排名:** 44
+
+**QS学科排名：** Data Science 数据科学：17 ; Statistics 统计：26
+
+-----------------------------------------------------------------
+
+## Msc in Big Data Technology 理學碩士 ( 大數據科技 )
+
+Full-time 全日制 : 1 年; Part-time 非全日制 : 2 年
+
+### Program Fee 费用:
+
+-   Application Fee 申请费：HK\$450
+
+-   Full-time 全日制: HK\$300,000
+
+-   Part-time 非全日制: HK\$260,000
+
+### Program Website [项目官网](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt)
+
+> This unique program is jointly offered by the Department of Computer Science and Engineering and the Department of Mathematics. The program integrates a variety of disciplines to allow students to learn all the important facets of big data and how it is used in the real world. Students will learn the major components of big data, including infrastructure, data integration, storage, modeling and management, computing systems, analytic and mining systems, security, policy and social implications, as well as human factors and big data applications in various fields (data science). 该独特的项目由计算机科学与工程系和数学系联合提供。该项目整合了多种学科，允许学生学习大数据的所有重要方面以及它在现实世界中的应用。学生将学习大数据的主要组成部分，包括基础设施、数据集成、存储、建模和管理、计算系统、分析和挖掘系统、安全、政策和社会影响，以及人因因素和大数据在各个领域（数据科学）中的应用。
+
+### Application time and outcome 申请时间和结果（以2026年为例）
+
+第一批： 12月1日;
+
+第二批： 3 月1 日;
+
+第三批：6 月 30 日;
+
+### Curriculum [课程设置](https://prog-crs.hkust.edu.hk/pgprog/2025-26/msc-bdt)
+
+----------------------------------------------------------------
+
+## Msc in Information Technology 理學碩士 ( 資訊科技 )
+
+Full-time 全日制 : 1 年; Part-time 非全日制 : 2 年
+
+### Program Fee 费用:
+
+-   Application Fee 申请费：HK\$450
+
+-   Full-time 全日制: HK\$270,000
+
+-   Part-time 非全日制: HK\$230,000
+
+### Application time and outcome 申请时间和结果（以2026年为例）
+
+第一批： 11 月 1 日;
+
+第二批： 1 月 1 日;
+
+第三批：3 月 1 日;
+
+第四批：6 月 30 日;
+
+### Program Website [项目官网](https://prog-crs.hkust.edu.hk/pgprog/2025-26/msc-it)
+
+> On successful completion of the program, graduates will be able to:
+- 1. Examine and formulate problems in major topics in computer science and information technology drawn from several areas, including applied areas technology.
+- 2. Integrate theoretical principles and up-to-date techniques in computer science and information technology to solve problems in the field of information technology.
+- 3. Communicate effectively through report writing, literature search, project design and oral presentations.
+- 4. Apply the latest computing and software development tools and techniques, especially state-of-the-art techniques that are used in industrial practice.
+- 5. Identify and describe the impact of key factors related to the design, management and performance of large scale software systems. 
+完成该项目后，毕业生将能够：
+1. 分析并提出计算机科学与信息技术领域（包括应用技术领域）中的重大问题。
+2. 运用计算机科学与信息技术的理论原则和最新技术，解决信息技术领域中的实际问题。
+3. 通过撰写报告、文献检索、项目设计和口头报告等形式进行有效沟通。
+4. 应用最新的计算和软件开发工具与技术，特别是工业实践中使用的最先进技术。
+5. 识别并描述与大型软件系统设计、管理和性能相关的关键因素的影响。
+
+### Curriculum [课程设置](https://prog-crs.hkust.edu.hk/pgprog/2025-26/msc-it)
+
+--------------------------------------------------------------------
+
+## Msc/Mphil/PHD in Information Systems Management 理學碩士 ( 資訊系統管理學 )
+
+Full-time 全日制 : 1 年; Part-time 非全日制 : 2 年
+
+### Program Fee 费用:
+
+-   Application Fee 申请费：HK\$450
+
+-   Full-time 全日制: HK\$336,000
+
+-   Part-time 非全日制: HK\$288,000
+
+### Application time and outcome 申请时间和结果（以2026年为例）
+
+第一批： 3 月 2 日;
+
+第二批： 6 月 30 日;
+
+### Program Website [项目官网](https://prog-crs.hkust.edu.hk/pgprog/2025-26/msc-ism)
+
+>The Master of Science (MSc) Program in Information Systems Management is designed to meet the rapidly increasing demand for middle and senior level information systems professionals. The program provides management training which enables business and non-business students to harness technology and information systems to develop innovative business solutions.  Students will study under some of the leading professors in the field, covering topics from blockchain and big data to IT strategy and policy. Outside of the classroom, students will also have the opportunity to attend enrichment talks and network with business professionals to recruit a new generation of talent. 信息系统管理理学硕士（MSc）项目旨在满足对中高级信息系统专业人才日益增长的需求。该项目提供管理培训，使商业和非商业背景的学生能够利用技术和信息系统开发创新的商业解决方案。  学生将在该领域的顶尖教授指导下学习，涵盖从区块链和大数据到IT战略与政策等主题。课外活动方面，学生将有机会参加专题讲座并 networking 与商业专业人士，以招募新一代人才。  
+
+ 
+
+>The program offers two optional concentrations: Financial Technology (FinTech) and Technology Innovation and Entrepreneurship. These concentrations provide specialized training to assist graduate preparing to work in specified fields, while maintaining a high degree of overall program flexibility. 该项目提供两个可选专业方向：金融科技（FinTech）与技术创新与创业。这些专业方向提供专业化培训，助力毕业生在特定领域就业，同时保持项目整体的高灵活性。

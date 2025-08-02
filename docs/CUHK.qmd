@@ -16,17 +16,19 @@ editor: visual
 ### Program Website [项目官网](https://asds.cuhk.edu.hk/)
 
 ### Cost费用
+
 Hong Kong Yuan香港元: 208,000
 
 ### Application Deadline 申请时间
 
-- Round 1 (Main): December, 2024
-- 第一轮（正常申请）：2025 年 12 月
+-   Round 1 (Main): December, 2024
 
-- Round 2 (Clearing): February, 2025
-- 第二轮（清算）：2025 年 2 月
+-   第一轮（正常申请）：2025 年 12 月
+
+-   Round 2 (Clearing): February, 2025
+
+-   第二轮（清算）：2025 年 2 月
 
 ## MSc in Data Science and Business Statistics 数据科学与商务分析
 
 只有非全职2年
-
